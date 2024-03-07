@@ -67,7 +67,7 @@ const Index = () => {
     <Box p={8}>
       <VStack divider={<StackDivider borderColor="gray.200" />} spacing={4} align="stretch">
         <Heading as="h1" size="2xl" textAlign="center">
-          Clothing Brand Ecommerce Store
+          no name
         </Heading>
         <Grid templateColumns="repeat(4, 1fr)" gap={6}>
           {products.map((product) => (
